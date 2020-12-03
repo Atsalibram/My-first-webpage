@@ -1,0 +1,23 @@
+h1{
+    color:orange;
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(175, 228, 126);
+}
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 30px;
+}
+ol{
+    line-height: 30px;
+}
+strong{
+    font-style: italic;
+}
+<em>{
+    font-style: bold;
+}
